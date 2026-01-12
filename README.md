@@ -1,2 +1,2 @@
 # MyPython
-this is my python coding journey amd i love this language very much
+At This point start my python coding journey and, I love this language very much
