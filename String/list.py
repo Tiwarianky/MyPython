@@ -1,0 +1,10 @@
+marks=[7,8,4,2,9]
+name=["Radhe","Shyam","Ram","Sita","Shiv","Parvati"]
+mark=marks.sort()
+#marks.append(0)
+nam=name.insert(0,"Durga")
+print(name.sort(reverse=True))
+nam=name.append("Laxman")
+print(name)
+mar=marks.pop(2)
+print(marks)
